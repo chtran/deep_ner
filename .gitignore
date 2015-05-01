@@ -1,0 +1,5 @@
+*.ipynb
+*.pyc
+*.dat
+.env
+.DS_Store
